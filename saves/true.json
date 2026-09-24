@@ -1,0 +1,29 @@
+{
+  "sampleEnding": "true",
+  "currentRoom": "basement",
+  "checkpoint": "basement",
+  "inventory": ["gold_key_full", "raisins_bag"],
+  "inventoryDetails": {
+    "gold_key_full": {
+      "name": "金色の鍵",
+      "description": "完成した金色の鍵。地下室の棺を開けることができる。",
+      "icon": "🔑"
+    },
+    "raisins_bag": {
+      "name": "干しブドウの袋",
+      "description": "アーシェが誰かと分け合った記憶につながる品。",
+      "icon": "🍇"
+    }
+  },
+  "discoveredSecretClues": 2,
+  "flags": {
+    "gold_key_combined": true,
+    "pink_note_lantern_examined": true,
+    "mirrors_solved": true,
+    "portraits_solved": true,
+    "black_girl_reveal_seen": true,
+    "black_girl_choice_resolved": true,
+    "chase_event_cleared": true,
+    "basement_stairs_unlocked": true
+  }
+}
